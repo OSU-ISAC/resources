@@ -2,12 +2,12 @@
 
 
 ## Windows
-### Windows Server
+#### Windows Server
 
 
 
 ## Linux/BSD
-### Ubuntu
-### Redhat/CentOS/Fedora
-## BSD
+#### Ubuntu
+#### Redhat/CentOS/Fedora
+### BSD
 ## other Linux
