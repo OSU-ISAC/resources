@@ -9,5 +9,5 @@
 ## Linux/BSD
 #### Ubuntu
 #### Redhat/CentOS/Fedora
-### BSD
+#### BSD
 ## other Linux
